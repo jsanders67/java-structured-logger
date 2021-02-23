@@ -1,6 +1,6 @@
 ## Java Structured Logger
 
-[![Build Status](https://travis-ci.com/jsanders67/java-structured-logger.svg?branch=master)](https://travis-ci.com/jsanders67/java-structured-logger)
+[![Build Status](https://travis-ci.com/jsanders67/java-structured-logger.svg?branch=main)](https://travis-ci.com/jsanders67/java-structured-logger)
 
 ### Overview
 
